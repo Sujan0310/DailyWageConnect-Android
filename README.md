@@ -20,7 +20,7 @@ DailyWageConnect is an Android application designed to connect daily wage worker
 
 ### 1️⃣ Clone the Repository  
 ```sh
-git clone https://github.com/your-username/DailyWageConnect-Android.git  
+git clone https://github.com/Sujan0310/DailyWageConnect-Android.git  
 cd DailyWageConnect-Android  
 ```  
 
@@ -78,8 +78,3 @@ This project is licensed for **personal use only**.
 See the [LICENSE](./LICENSE) file for details.  
 ```
 
----
-
-
-
-Just **replace `your-username`** with your GitHub username in the clone command, and you're good to go! 🚀🔥
