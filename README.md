@@ -76,5 +76,3 @@ This project is licensed for **personal use only**.
 ❌ **Prohibited:** Commercial use, replication for profit, or redistribution.  
 
 See the [LICENSE](./LICENSE) file for details.  
-```
-
