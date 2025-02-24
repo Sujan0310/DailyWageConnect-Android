@@ -1,6 +1,3 @@
-Here’s your updated **README.md** with Firebase setup instructions:  
-
-```md
 # 🚀 DailyWageConnect-Android  
 
 DailyWageConnect is an Android application designed to connect daily wage workers with job opportunities. Employers can post jobs, and workers can browse and apply efficiently.  
@@ -25,7 +22,7 @@ DailyWageConnect is an Android application designed to connect daily wage worker
 ```sh
 git clone https://github.com/Sujan0310/DailyWageConnect-Android.git  
 cd DailyWageConnect-Android  
-```  
+
 
 ### 2️⃣ Open in Android Studio  
 - Open Android Studio  
