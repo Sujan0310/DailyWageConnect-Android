@@ -19,7 +19,7 @@ DailyWageConnect is an Android application designed to connect daily wage worker
 ## 🚀 Getting Started  
 
 ### 1️⃣ Clone the Repository  
-```sh
+
 git clone https://github.com/Sujan0310/DailyWageConnect-Android.git  
 cd DailyWageConnect-Android  
 
