@@ -1,0 +1,12 @@
+{
+  "warning": "This file is intentionally left blank.",
+  "message": "To enable Firebase services, download your own google-services.json file from Firebase Console and place it in the app directory.",
+  "instructions": [
+    "1. Go to https://console.firebase.google.com/",
+    "2. Select your project or create a new one.",
+    "3. Navigate to 'Project Settings' (gear icon in Firebase Console).",
+    "4. In the 'General' tab, scroll down to 'Your apps' section.",
+    "5. Download the google-services.json file for your Android app.",
+    "6. Place the downloaded file in the 'app/' directory of this project."
+  ]
+}
