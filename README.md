@@ -31,7 +31,18 @@ cd DailyWageConnect-Android
 
 ### 3️⃣ Run the App  
 - Connect an Android device or use an emulator  
-- Click on the **Run (▶️) Button** in Android Studio  
+- Click on the **Run (▶️) Button** in Android Studio
+
+ ##🔧 Firebase Setup
+This project uses Firebase services. To enable them, follow these steps:
+
+1️⃣ Go to Firebase Console
+2️⃣ Select or create a Firebase project
+3️⃣ Navigate to Project Settings > General
+4️⃣ Download the google-services.json file for your Android app
+5️⃣ Replace the existing google-service-dummy.json file in the app/ directory with your actual google-services.json file
+
+⚠️ Important: Never share your google-services.json file publicly to avoid security risks.
 
 ## 📌 Database Schema (SQLite)  
 
